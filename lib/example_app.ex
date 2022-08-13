@@ -1,8 +1,4 @@
 defmodule ExampleApp do
-  @moduledoc """
-  Documentation for `ExampleApp`.
-  """
-
   @doc """
   Hello world.
 
